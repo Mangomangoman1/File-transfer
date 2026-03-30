@@ -108,3 +108,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Cody's Handyman Services
+- **Location:** Hailey, ID
+- **Category:** Handyman (Home Repair, Maintenance, Lite Remodels)
+- **Website:** https://www.handymancody.com
+- **Website Status:** BASIC
+- **Website Score:** 3/10
+- **Viability Score:** 8/10
+- **Why:** Local handyman service that's a "Neighborhood Favorite" on Nextdoor in multiple Hailey neighborhoods. Licensed and insured, serving the Wood River Valley. Current website is a bare-bones Wix site with almost no content — just a header, three service categories with no descriptions, and contact info. No photos of work, no testimonials, no detailed services list, no about page. In an affluent area with many second homes needing regular maintenance, a professional site showcasing project gallery, detailed services, testimonials, and easy quote requests would significantly increase credibility and lead conversion.
+- **Contact Signal:** (208) 300-0632, tollec22@gmail.com, Hailey ID
+- **Scouted:** 2026-03-30
+
+---
