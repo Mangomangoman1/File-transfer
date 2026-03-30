@@ -212,3 +212,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Make It Last Auto Detailing
+- **Location:** Hailey, ID (mobile service covering Sun Valley, Ketchum, Bellevue)
+- **Category:** Mobile Auto Detailing
+- **Website:** https://www.makeitlast-autodetailing.com/ (EXPIRED)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Mobile auto detailing service covering the entire Wood River Valley — Sun Valley, Ketchum, Hailey, and Bellevue. Their Squarespace website has completely expired (shows "Website Expired" error). Still listed on Yelp and MapQuest as active business with regular hours (Mon-Sat 8-5). This is an ideal opportunity: business that clearly valued having a website (paid for Squarespace) but let it lapse — probably due to cost or forgot to renew. In an affluent area with expensive vehicles (Tesla, luxury SUVs, second-home residents with premium cars), mobile detailing is a high-demand service. A new website with online booking, service packages with pricing, before/after photos, and easy scheduling would help them recapture customers who can't find them now. Urgent need — they're losing business every day without web presence.
+- **Contact Signal:** Yelp listing active, Hailey ID 83333
+- **Scouted:** 2026-03-30
+
+---
