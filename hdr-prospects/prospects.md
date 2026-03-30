@@ -134,3 +134,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## BFN Mountain Painting
+- **Location:** Bellevue, ID
+- **Category:** Painting Contractor (Residential Interior/Exterior)
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Family-owned and operated painting company serving Sun Valley, Hailey, and Blaine County. Listed on Yellow Pages and Yelp as a full-service painting company for residential interior and exterior work. Currently has zero web presence — no website at all. In an affluent area with luxury homes, vacation properties, and frequent remodels, a professional website showcasing before/after galleries, services, testimonials, and easy quote requests would significantly increase credibility and capture homeowners searching for "painter Sun Valley" or "Hailey painting contractor." Family-owned angle is great for trust in this market.
+- **Contact Signal:** Bellevue, ID (Yellow Pages listing)
+- **Scouted:** 2026-03-30
+
+---
