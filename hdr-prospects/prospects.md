@@ -290,3 +290,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Independent Automotive Service
+- **Location:** Ketchum, ID
+- **Category:** Auto Repair / Mechanic
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established auto repair shop in Ketchum since 1978 — nearly 50 years in business. They specialize in foreign and domestic vehicles including 4x4s and trucks, which is perfect for the Wood River Valley's outdoor/ski crowd. Despite their longevity and solid reputation, they have ZERO web presence — only listed on city directories, Yellow Pages, and Yelp. Competitors like Hailey Auto Clinic, Pioneer Automotive, and Dick York's Auto Service all have professional websites. In a resort area where visitors constantly need car service (ski racks, winter tires, breakdowns), not being findable online means losing business to shops that are. A website with services, hours, location/directions, and a simple contact form would immediately modernize their presence and capture the "auto repair near me Ketchum" searches.
+- **Contact Signal:** (208) 726-3360, 301 Bell Dr, Ketchum ID 83340
+- **Scouted:** 2026-03-30
+
+---
