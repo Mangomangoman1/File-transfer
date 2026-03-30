@@ -420,3 +420,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## All Seasons Landscaping
+- **Location:** Bellevue, ID (serves Sun Valley / Ketchum / Hailey)
+- **Category:** Landscaping / Snow Removal / Property Maintenance
+- **Website:** https://allseasons.info/
+- **Website Status:** BROKEN
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Well-established landscaping company with 33+ years serving the Wood River Valley and Magic Valley. Member of the Valley Chamber of Commerce, offers full landscaping services including heavy construction, flower installs, maintenance, and 3D landscape design. However, their website at allseasons.info is COMPLETELY BROKEN — it just shows "React App" with no content, meaning their React frontend fails to render anything. For a 33-year business that should be competing for high-end residential work in the affluent Sun Valley market, having a dead website is embarrassing and losing them business daily. Competitors like Webb Landscape and Big Wood Landscape have professional portfolio websites. A proper website showcasing their 3D design capability, project portfolio, snow removal services, and testimonials would dramatically boost their credibility and capture search traffic from homeowners looking for "landscaping Sun Valley" or "snow removal Hailey."
+- **Contact Signal:** (208) 788-9222, Box Cyn, Bellevue ID, Facebook: @allseasonswrv
+- **Scouted:** 2026-03-30
+
+---
