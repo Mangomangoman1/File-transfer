@@ -82,3 +82,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Pink's Electric
+- **Location:** Ketchum, ID
+- **Category:** Electrical Contractor (Residential & Commercial)
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Family-owned electrical contractor serving Hailey, Ketchum, and Sun Valley since 1965 — nearly 60 years in business. Owner Floyd Slane is highly recommended with excellent reviews ("very friendly, knowledgeable and professional"). Currently has zero web presence — just directory listings on Names and Numbers, MapQuest, and Yelp. In an affluent area with expensive homes needing electrical work, a professional website showcasing their 60-year legacy, residential/commercial expertise, and customer testimonials would establish instant credibility and capture search traffic. The "since 1965" angle is a powerful trust signal that could be the centerpiece of their brand.
+- **Contact Signal:** (208) 726-4636, 12588 State Highway 75 Ketchum, ID
+- **Scouted:** 2026-03-30
+
+---
