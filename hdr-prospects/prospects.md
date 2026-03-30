@@ -147,3 +147,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Mountain Fireplace & Chimney
+- **Location:** Gooding, ID (serves Wood River Valley)
+- **Category:** Chimney Sweep & Fireplace Services
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Family-owned and operated chimney service company, member of the Hailey/Wood River Valley Chamber of Commerce. Offers chimney sweeps, camera/infrared inspections, gas/wood/pellet stove services, chimney repairs, crown repair, waterproofing, and relining kits. Currently has zero web presence — only a Chamber listing and Facebook page. In a ski resort area with thousands of homes and vacation rentals that have fireplaces and wood stoves, this is an incredibly high-demand service. A professional website showcasing their full service range, certifications, before/after photos, and easy scheduling would capture massive search traffic from "chimney sweep Sun Valley" and "fireplace repair Ketchum" queries. Perfect seasonal business that needs visibility before winter.
+- **Contact Signal:** (208) 961-6085, Facebook page, 238 Dorothy Ave Gooding ID
+- **Scouted:** 2026-03-30
+
+---
