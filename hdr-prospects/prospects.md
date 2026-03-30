@@ -56,3 +56,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Pawsitively Divine Grooming
+- **Location:** Hailey, ID
+- **Category:** Pet Grooming (Dog Spa & Self-Serve)
+- **Website:** https://pawsitivelydivinegrooming.com/ (SUSPENDED)
+- **Website Status:** SUSPENDED
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Active dog grooming business with 460 Facebook likes, offering full grooming and self-serve dog wash at 1030 Business Park Drive in Hailey. Their website (pawsitivelydivinegrooming.com) is currently suspended on Hostinger — meaning they previously had a website but it's down, likely due to unpaid hosting or expired domain. This is a perfect opportunity: established business that clearly wants web presence but needs help. A professional site with online booking, service pricing, gallery of groomed dogs, and the self-serve wash feature highlighted would serve this business well. Pet owners in the affluent Wood River Valley are exactly the demographic that searches online for grooming services.
+- **Contact Signal:** (208) 316-5819, 1030 Business Park Dr Suite C, Facebook: @PawsitivelyDivineGrooming
+- **Scouted:** 2026-03-30
+
+---
