@@ -186,3 +186,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Tony's Five Step Carpet Care
+- **Location:** Sun Valley / Ketchum / Hailey / Bellevue, ID
+- **Category:** Carpet & Upholstery Cleaning
+- **Website:** https://www.tonysfivestepcarpetcare.com/
+- **Website Status:** EXTREMELY BASIC
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Local eco-friendly carpet cleaning service run by Tony McGraw serving the entire Wood River Valley. Current website is comically minimal — literally one paragraph of text and a phone number. No photos, no service details, no pricing, no booking form, no SEO optimization whatsoever. For a service business that depends on local search traffic (people googling "carpet cleaning Hailey" or "upholstery cleaning Sun Valley"), this is leaving money on the table. An eco-friendly angle is actually a strong selling point in the affluent, environmentally-conscious Sun Valley market, but it's completely underutilized. A proper website with before/after photos, service descriptions, online booking, customer reviews, and proper local SEO would dramatically increase their visibility and bookings.
+- **Contact Signal:** (208) 788-8410
+- **Scouted:** 2026-03-30
+
+---
