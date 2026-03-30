@@ -160,3 +160,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Sun Valley Rug & Tile
+- **Location:** Hailey, ID
+- **Category:** Flooring Store (Carpet, Tile, Hardwood, Granite, Marble, Quartz)
+- **Website:** http://sunvalleyrugandtile.com/ (PARKED)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Long-established flooring store with over 37 years serving the Wood River Valley. Full-service showroom selling granite, marble, quartz, solid surfaces, tile, hardwood, vinyl, laminate, and carpet. Has an active Facebook presence and directory listings, but their website (sunvalleyrugandtile.com) is completely empty — just a parked domain with no content whatsoever. A business with 37 years of experience and a full showroom should have a professional website showcasing their product gallery, installation portfolio, services, and easy quote requests. The affluent Sun Valley market expects professional web presence from home improvement businesses — this is a slam dunk prospect.
+- **Contact Signal:** (208) 788-9011, 1221 Airport Way Hailey, Facebook: @SunValleyRT
+- **Scouted:** 2026-03-30
+
+---
