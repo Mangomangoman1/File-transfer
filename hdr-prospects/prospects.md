@@ -498,3 +498,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Contreras Bros Moving Services
+- **Location:** Ketchum, ID (serves Sun Valley / Hailey / Wood River Valley)
+- **Category:** Moving Company / Movers
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Locally-owned moving company from Sun Valley serving the Wood River Valley — shows up on Yelp with 12 photos and positive reviews. Offers house/office/apartment/condo moves, furniture delivery and pick-up, consignment delivery, packing services, and both local and out-of-state moves. They have ZERO website — only Yelp and MapQuest listings. Moving companies absolutely need websites: people Google "movers Sun Valley" or "moving company Ketchum" when planning a move. Without a website, they lose to competitors like Sun Valley Transfer (has website), Bluebird Moving (has website), and Salmon Moving Services (has website). A professional site with services, pricing tiers, booking/quote forms, service area info, and testimonials would dramatically increase their visibility and bookings, especially for the seasonal influx of second-home owners moving in/out of the area.
+- **Contact Signal:** N Washington Ave, Ketchum ID 83340 (via Yelp/MapQuest listings)
+- **Scouted:** 2026-03-30
+
+---
