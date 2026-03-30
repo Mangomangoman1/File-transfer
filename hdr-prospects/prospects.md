@@ -43,3 +43,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Hailey Plumbing, Inc.
+- **Location:** Bellevue, ID
+- **Category:** Plumbing Services
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established local plumbing company serving the Wood River Valley. Positive Yelp reviews highlighting prompt, reliable service, fair pricing, and going "above and beyond" for customers. Currently has zero web presence — no website, just directory listings and a Yelp page. In an affluent area with many second homes and vacation properties needing reliable plumbers, a professional website with service listings, emergency contact info, and testimonials would capture significant search traffic from homeowners and property managers searching "plumber Hailey" or "Sun Valley plumbing."
+- **Contact Signal:** 504 N Main St Bellevue, ID 83313
+- **Scouted:** 2026-03-30
+
+---
