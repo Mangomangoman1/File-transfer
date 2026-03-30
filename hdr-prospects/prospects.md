@@ -316,3 +316,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## The Sanctuary Medical Massage & Bodywork
+- **Location:** Hailey, ID
+- **Category:** Massage Therapy / Bodywork / Wellness
+- **Website:** http://www.thesanctuarysv.com/
+- **Website Status:** BROKEN/DEFUNCT
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Established massage therapy practice in downtown Hailey offering medical massage, sports therapy, deep tissue, prenatal, lymphatic drainage, and more. They have excellent reviews on Yelp and are listed with the Valley Chamber of Commerce. HOWEVER, their domain (thesanctuarysv.com) returns a 404 error — their website is completely broken/offline! This is an urgent problem for any service business. The practitioners (Lauren Levig, JeNeil Heugly) still operate — Lauren even has her own Weebly page — but the main business website is dead. They currently rely on MassageBook for online booking. A new professional website would restore their credibility, showcase their extensive service offerings, introduce the therapists, and provide direct booking. This is a "hot lead" — they clearly understand the value of a website (they had one), it's just broken.
+- **Contact Signal:** (208) 720-0760, 13 W Bullion St, Hailey ID 83333
+- **Scouted:** 2026-03-30
+
+---
