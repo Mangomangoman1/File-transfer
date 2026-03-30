@@ -524,3 +524,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Lee Ann's Pet Salon
+- **Location:** Ketchum, ID (10th Street Center)
+- **Category:** Pet Grooming / Dog Grooming
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Well-established pet grooming salon in Ketchum serving the Sun Valley area. Listed on Ketchum city directory, Yelp (8 reviews with glowing praise like "The Dog Whisperer-Lee Ann!"), BBB, MapQuest, and Yahoo Local. Offers grooming, nail trims, daycare services. Competitors like Four Paws Doggy Day Spa (fourpawsdoggiedayspa.com) and Gnaw Bone Dog Boarding (gnawbone.dog) have professional websites. Pet owners in the affluent Sun Valley area absolutely search online for grooming services. Without a website, Lee Ann's loses to competitors who show up with online booking, service menus, and before/after photos. A simple site with services, pricing, gallery of groomed dogs, and online appointment booking would help capture the tourist pet owners and second-home residents who need grooming services.
+- **Contact Signal:** (208) 589-8422, 10th Street Center, Ketchum ID 83340
+- **Scouted:** 2026-03-30
+
+---
