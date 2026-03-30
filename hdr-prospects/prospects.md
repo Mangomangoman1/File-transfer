@@ -277,3 +277,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Mary L. Keppler, CPA
+- **Location:** Ketchum/Hailey, ID
+- **Category:** CPA / Tax Preparation / Accounting
+- **Website:** https://www.kepplercpa.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 1/10
+- **Viability Score:** 9/10
+- **Why:** Established CPA in the Wood River Valley (license #CP-3775, licensed since 1990s). Her current website at kepplercpa.com literally displays "Under Construction" with just a login portal — essentially no functioning website at all despite having a domain. In an affluent area with seasonal residents and vacation homeowners who need tax services, a CPA without a proper website is losing credibility and clients to competitors like Becker Chambers & Co, Sabo Accounting, and Jacobs + Rand who have full professional sites. A website showcasing services (tax prep, planning, bookkeeping), credentials, client portal, and contact info would immediately establish professionalism and capture clients searching "CPA Ketchum" or "tax accountant Sun Valley."
+- **Contact Signal:** (208) 788-1445, P.O. Box 1454, Ketchum ID 83340, info@kepplercpa.com
+- **Scouted:** 2026-03-30
+
+---
