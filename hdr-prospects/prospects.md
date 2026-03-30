@@ -381,3 +381,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Sun Valley Chiropractic
+- **Location:** Hailey, ID
+- **Category:** Chiropractor / Wellness / Healthcare
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established chiropractic practice serving the Wood River Valley for over 20 years with a focus on Functional Medicine and light-touch chiropractic techniques. Located at 660 N 2nd Ave in Hailey. Despite their longevity and reputation, they have ZERO web presence beyond directory listings (Yelp, MapQuest). In healthcare, a professional website is critical for credibility, patient education, and new patient acquisition. Competitors in the area (Ketchum Chiropractic, VanDooren Chiropractic, Hailey Chiropractic Clinic, Ascension Holistic Health) all have professional websites. A website would help Sun Valley Chiropractic explain their holistic approach, list services, accept appointment requests, and capture "chiropractor near me" searches. Healthcare practices are ideal web design clients — they have established revenue, understand professional image matters, and benefit greatly from online visibility.
+- **Contact Signal:** (208) 725-0000, 660 N 2nd Ave, Hailey ID 83333
+- **Scouted:** 2026-03-30
+
+---
