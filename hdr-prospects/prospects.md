@@ -238,3 +238,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Angela's Gym
+- **Location:** Ketchum, ID
+- **Category:** Personal Training / Fitness Gym
+- **Website:** http://www.goingtoangelas.com (DEAD)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Private personal training gym in Ketchum offering individual and group training with state-of-the-art equipment. Specializes in targeted strength training with high-intensity cardio intervals. Has 25 photos on Yelp and active Nextdoor listing — clearly an established local business. However, their listed website (goingtoangelas.com) is completely dead — domain doesn't even resolve. They're losing potential clients daily who search online, find nothing professional, and go to competing gyms with websites. In the affluent Sun Valley market where personal training can command premium prices, a professional website with class schedules, trainer bios, pricing packages, transformation photos, and online booking would significantly boost their visibility and client acquisition.
+- **Contact Signal:** (208) 720-7433, 360 E 9th St #1, Ketchum ID 83340
+- **Scouted:** 2026-03-30
+
+---
