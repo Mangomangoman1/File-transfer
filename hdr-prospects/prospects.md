@@ -511,3 +511,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## The Appliance Service Company
+- **Location:** Bellevue, ID (serves Hailey / Ketchum / Sun Valley / Wood River Valley)
+- **Category:** Appliance Repair & Service
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Family-owned appliance repair business established in 1984 — serving the Wood River Valley for 40 years. Highly rated on Yelp ("As a Property Management business in the Woodriver Valley we utilize the services of the Appliance Service Co."), appears on Yellow Pages, MapQuest, and other directories. They repair most major appliance brands (Whirlpool, Kenmore, GE, Maytag, etc.) and have the largest parts inventory in the valley. Despite 40 years of reputation, they have ZERO website — competitors like The Appliance Company (theappliance.co) and Craig's At Your Service have professional websites with online scheduling. In an area with high-end vacation homes and second homes requiring appliance maintenance, a website with service list, brands serviced, scheduling/quote request, and testimonials would capture the significant search traffic for "appliance repair Hailey" or "refrigerator service Sun Valley." Hot prospect — established business, no web presence.
+- **Contact Signal:** (208) 788-2022, 106 E Ash St, Bellevue ID 83313
+- **Scouted:** 2026-03-30
+
+---
