@@ -368,3 +368,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Juarez Construction LLC
+- **Location:** Hailey, ID
+- **Category:** General Contractor / Remodeling / Handyman
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established local general contractor in Hailey specializing in remodeling, drywall, finish carpentry, painting, and handyman services. They have a solid Yelp presence with 20 photos of their work and positive reviews. The company handles everything "from small jobs to additions and new home builds" — a versatile scope that appeals to the Wood River Valley market. However, they have ZERO web presence beyond directory listings (Yelp, Names and Numbers). In an affluent market like Sun Valley where homeowners expect professionalism and are doing high-value renovations, a proper website with portfolio, services, testimonials, and contact form is essential. Competitors like Sun Valley Renovations and Renovatio Inc. have professional sites. A website would help Juarez compete for higher-end projects, appear in "contractor near me" searches, and showcase their impressive photo portfolio currently buried on Yelp.
+- **Contact Signal:** Hailey, ID (phone via Yelp)
+- **Scouted:** 2026-03-30
+
+---
