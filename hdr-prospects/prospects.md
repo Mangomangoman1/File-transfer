@@ -251,3 +251,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Ketchum Heating
+- **Location:** Hailey, ID
+- **Category:** HVAC / Heating Contractor
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established HVAC contractor based in Hailey serving the Wood River Valley. Listed on Yelp, Yellow Pages, and various directories with 240+ building permits on record (BuildZoom). They have a physical location at 615 N River St and operate during business hours (8:30am-4pm). However, they have absolutely NO website — the "website" link on MapQuest goes to an unrelated real estate site. In a market with expensive homes requiring regular HVAC maintenance and new construction, having no web presence means losing business to competitors like High Country Heating Inc and Jon's Heating who have professional sites. A website with services offered, service areas, emergency contact info, maintenance plans, and online scheduling would immediately boost credibility and accessibility for homeowners searching online.
+- **Contact Signal:** (208) 788-3361, 615 N River St, Hailey ID 83333
+- **Scouted:** 2026-03-30
+
+---
