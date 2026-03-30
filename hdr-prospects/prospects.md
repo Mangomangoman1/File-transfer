@@ -121,3 +121,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Lee Ann's Pet Salon
+- **Location:** Ketchum, ID
+- **Category:** Pet Grooming (Dogs, Day Care)
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established pet grooming salon with BBB profile and excellent Yelp reviews — customers call Lee Ann "The Dog Whisperer" and rave about her care and attention. Offers grooming, shampoo, nail trims, and day care services. Currently has zero web presence — only directory listings and review sites. In an affluent area where residents treat their pets like family, a professional website showcasing services, pricing, photos of happy dogs, testimonials, and online booking would dramatically increase visibility and bookings. The "Dog Whisperer" reputation is a powerful branding angle that deserves a proper online presence to match.
+- **Contact Signal:** (208) 726-4364, 10th Street Center Ketchum, ID
+- **Scouted:** 2026-03-30
+
+---
