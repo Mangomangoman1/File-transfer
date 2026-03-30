@@ -4,3 +4,16 @@
 *Last updated: see git log*
 
 ---
+
+## Three Peas Bakery
+- **Location:** Hailey, ID
+- **Category:** Bakery (gluten-free specialty)
+- **Website:** https://3peasbakery.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 3/10
+- **Viability Score:** 8/10
+- **Why:** Established home bakery specializing in gluten-free baked goods, distributes to Starbucks in Ketchum and Atkinson's. Website is a bare-bones GoDaddy Website Builder site from 2018 with broken internal links (shop page 404s), no mobile optimization, and 2014-era CSS framework. Active business with Facebook presence (617 likes) selling custom cakes, cookies, and baked goods — a modern site with online ordering would significantly improve their reach and professional image in the affluent Wood River Valley market.
+- **Contact Signal:** (208) 850-4483, Facebook: @3peasbakery
+- **Scouted:** 2026-03-30
+
+---
