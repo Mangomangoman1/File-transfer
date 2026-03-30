@@ -95,3 +95,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## The Gem Barbershop
+- **Location:** Hailey, ID
+- **Category:** Barber Shop (Men, Women, Kids - Cut, Color, Shave)
+- **Website:** http://www.thegembarbershop.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established barbershop serving the Wood River Valley since at least 2014, with BBB profile and strong Nextdoor recommendations. Website is extremely dated — copyright 2014, single-page with just address and a Booker booking link. No photos, no team info, no services/pricing list, no mobile optimization. An active business that clearly has loyal customers would benefit tremendously from a modern site showcasing their team, services, prices, gallery of work, and integrated online booking. The "where all are welcome" angle and affordability focus are great branding points that deserve better presentation.
+- **Contact Signal:** (208) 578-0466, 15 W Bullion St, uses Booker for online booking
+- **Scouted:** 2026-03-30
+
+---
