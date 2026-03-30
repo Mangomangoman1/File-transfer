@@ -446,3 +446,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## HandyMan Sun Valley
+- **Location:** Ketchum, ID (serves Sun Valley / Hailey / Wood River Valley)
+- **Category:** Handyman / Home Repair / Property Maintenance
+- **Website:** https://handymansunvalley.com/ (BROKEN)
+- **Website Status:** BROKEN
+- **Website Score:** 0/10
+- **Viability Score:** 8/10
+- **Why:** Established handyman service LLC in Ketchum that received PPP loans (indicating legitimate business operation). Listed as a top result on Yelp and other directories for "handyman Sun Valley." Their website domain handymansunvalley.com is listed on Yelp but is completely inaccessible (connection refused / site down). In an area with high-end vacation homes and second homes requiring regular maintenance, a handyman service without a working website is losing significant business. Competitors like Sun Valley Repair and Cody's Handyman Services have functional websites with service lists and contact forms. A professional website showcasing services, service area, testimonials, and an easy contact/quote request form would capture homeowners and property managers searching for "handyman Ketchum" or "home repair Sun Valley." Hot prospect — they already recognize they need a website (have a domain) but it's completely broken.
+- **Contact Signal:** (208) 309-3340, Ketchum ID
+- **Scouted:** 2026-03-30
+
+---
