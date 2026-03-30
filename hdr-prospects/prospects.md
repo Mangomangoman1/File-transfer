@@ -485,3 +485,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Lee Ann's Pet Salon
+- **Location:** Ketchum, ID (serves Sun Valley / Hailey / Wood River Valley)
+- **Category:** Pet Grooming / Dog Grooming
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established pet grooming salon in Ketchum's 10th Street Center, highly reviewed on Yelp (8 reviews, loyal repeat customers), listed on BBB and multiple directories. Owner Lee Ann and team offer grooming services plus day care for dogs. Clearly a trusted local business with word-of-mouth reputation. However, they have ZERO web presence — no website at all, just directory listings and Yelp. In the affluent Wood River Valley where pet owners pamper their dogs (ski town = lots of dogs!), a professional website with services, pricing, photo gallery of groomed pets, online booking, and day care info would help them compete with other salons like Four Paws Doggy Day Spa (which has a full website). Visitors searching "dog groomer Sun Valley" would find them instead of only seeing competitors with websites.
+- **Contact Signal:** (208) 589-8422, 360 E 10th St (10th Street Center), Ketchum ID 83340
+- **Scouted:** 2026-03-30
+
+---
