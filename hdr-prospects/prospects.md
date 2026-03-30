@@ -394,3 +394,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Sun Valley Taxi & Shuttle
+- **Location:** Ketchum, ID
+- **Category:** Taxi / Airport Shuttle / Transportation
+- **Website:** https://www.sunvalleytaxiandshuttle.com/
+- **Website Status:** BROKEN
+- **Website Score:** 1/10
+- **Viability Score:** 9/10
+- **Why:** Operating taxi and airport shuttle service in Ketchum serving the Wood River Valley with positive Yelp reviews. However, their website at sunvalleytaxiandshuttle.com is effectively BROKEN — it loads but shows virtually no content (just a title tag, no visible information). Tourists and visitors searching for "Sun Valley taxi" or "airport shuttle Ketchum" find their competitors (Aardvark Taxi, Wood River Taxi, Valley Mile Express, Miller's Limo) which all have functional websites with rates, booking info, and contact details. In the tourism-driven Wood River Valley, transportation services need a professional online presence to capture visitors booking rides before they arrive. A simple site with rates, service area, booking/contact form, and vehicle info would immediately generate more business. This is a "hot lead" — they already tried to have a website but it failed/broke.
+- **Contact Signal:** (208) 481-2119, 710 S Main St Ketchum ID 83340
+- **Scouted:** 2026-03-30
+
+---
