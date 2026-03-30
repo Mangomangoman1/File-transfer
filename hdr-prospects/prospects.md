@@ -225,3 +225,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Integrated Bodywork
+- **Location:** Ketchum, ID
+- **Category:** Massage Therapy & Bodywork
+- **Website:** https://benjamin-berkowitz-rhfg.squarespace.com/
+- **Website Status:** UNPROFESSIONAL (free subdomain)
+- **Website Score:** 3/10
+- **Viability Score:** 9/10
+- **Why:** Premium massage therapy practice run by George & Kristine Sedlack, established since 2001 with 30 years combined experience. Described as "the premiere massage therapy destination in Ketchum" — clearly well-established with excellent testimonials from athletes and residents. However, they're using a FREE Squarespace subdomain (benjamin-berkowitz-rhfg.squarespace.com) instead of a professional domain like integratedbodyworkketchum.com. This is embarrassing for a high-end service in an affluent area where clients expect professionalism. The actual site content is decent but the URL destroys credibility — looks like a student project. A professional domain with online booking integration, service menu with pricing, practitioner bios, and gift certificate purchasing would dramatically improve their image and convenience for the Sun Valley luxury market.
+- **Contact Signal:** Form on website, Ketchum office location
+- **Scouted:** 2026-03-30
+
+---
