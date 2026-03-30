@@ -173,3 +173,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Specialty Woodworks
+- **Location:** Hailey, ID
+- **Category:** Cabinet Maker & Custom Millwork
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Licensed contractor (RCE-34001) run by Craig Werley specializing in custom cabinets, millwork, and modular cabinetry. Partner dealer for Huntwood custom cabinets. Has Houzz profile, Names and Numbers listing, and BuildZoom profile but no website at all. In an affluent market like Sun Valley where luxury home construction and remodeling is constant, a custom cabinet maker needs a portfolio website showcasing their craftsmanship. High-end clients research contractors online before calling — without a website showing their work, they're losing business to competitors with better web presence. A site with project gallery, Huntwood partnership highlight, services list, and testimonials would establish the credibility this skilled tradesman deserves.
+- **Contact Signal:** (208) 788-3770, 4301 Glenbrook Dr Ste B, Hailey ID
+- **Scouted:** 2026-03-30
+
+---
