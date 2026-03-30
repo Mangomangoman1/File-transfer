@@ -472,3 +472,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Two Sweeps of Idaho
+- **Location:** Ketchum, ID (serves Sun Valley / Hailey / Wood River Valley and surrounding areas)
+- **Category:** Chimney Sweep / Fireplace Service
+- **Website:** https://twosweeps.com/ (DEAD)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Family-owned chimney sweep business operating since 1993 — over 30 years serving the Wood River Valley. Their website domain twosweeps.com is completely dead (doesn't resolve at all). In a mountain resort area where nearly every home has a fireplace or wood stove, chimney services are essential for safety and maintenance. The Wood River Valley has cold winters and many wood-burning fireplaces, making regular chimney sweeping critical. Without a working website, they're losing business to competitors and to visitors/new residents who search online for "chimney sweep Ketchum" or "fireplace service Sun Valley." A professional website with services (sweeping, inspections, repairs, installations), safety information, seasonal booking, and easy contact would help them capture the steady stream of homeowners who need annual chimney maintenance. Hot prospect — 30-year business that clearly had a website but let it die.
+- **Contact Signal:** Ketchum ID (via directory listings)
+- **Scouted:** 2026-03-30
+
+---
