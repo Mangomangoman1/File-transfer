@@ -199,3 +199,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Sun Valley Dog Walker & Pet Sitter
+- **Location:** Ketchum / Sun Valley / Hailey / Bellevue, ID
+- **Category:** Pet Sitting & Dog Walking
+- **Website:** https://sunvalleydogwalker1.wordpress.com/
+- **Website Status:** EXTREMELY OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established pet care business run by Jen, serving the entire Wood River Valley since around 2010 with decades of local experience. Endorsed by local veterinarians, offers dog walking, pet sitting, adventure backpacking trips with pets, cat care, pet taxi, and home check services. Website is a free WordPress.com subdomain with obviously broken internal links (references SERVICES/FEES and TESTIMONIALS pages with .php extensions that 404). The site hasn't been redesigned since 2010 — WordPress default theme, clunky image embedding, no mobile optimization. In an affluent area where pet owners want professional, trustworthy care for their beloved animals, a polished site with online booking, service pricing, photo gallery of happy pets, testimonials, and proper local SEO would dramatically increase credibility and bookings. The business clearly has a strong reputation — it just needs a web presence that matches.
+- **Contact Signal:** Contact form on WordPress site, based in Ketchum area
+- **Scouted:** 2026-03-30
+
+---
