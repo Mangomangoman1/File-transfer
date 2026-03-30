@@ -303,3 +303,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Kids Kampus Bilingual Preschool & Daycare
+- **Location:** Hailey, ID
+- **Category:** Childcare / Preschool / Daycare
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Licensed childcare center in downtown Hailey serving children 3 months to 10 years with a BILINGUAL program — a unique differentiator in the area. They have zero web presence despite offering something special that parents actively search for. The Wood River Valley has a significant Spanish-speaking population, and bilingual early education is increasingly sought-after by all families. Currently they're only findable through generic daycare directory sites, while competitors like Busy Bees Preschool and Little River Preschool have their own web presence. A website showcasing their bilingual curriculum, enrollment info, daily schedule, staff qualifications, and parent testimonials would immediately set them apart and help parents discover this unique option. Childcare decisions are high-trust — parents WILL visit your website before calling.
+- **Contact Signal:** (208) 721-2570, 104 N 1st Ave, Hailey ID 83333
+- **Scouted:** 2026-03-30
+
+---
