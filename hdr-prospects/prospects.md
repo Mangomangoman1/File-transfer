@@ -17,3 +17,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Lago Azul Mexican Restaurant
+- **Location:** Hailey, ID
+- **Category:** Restaurant (Mexican & Salvadoran)
+- **Website:** https://lago-azul-mexican-restaurant.square.site/
+- **Website Status:** BASIC
+- **Website Score:** 2/10
+- **Viability Score:** 9/10
+- **Why:** Family-owned Mexican & Salvadoran restaurant operating for over a decade in downtown Hailey. Has 563 Facebook likes and 54 Yelp reviews (solid local presence). Currently using a bare-bones Square site — essentially just an online ordering portal with no branding, menu presentation, story, or personality. A proper restaurant website with their story, photo gallery, full menu, and event/catering info would significantly elevate their image in the tourist-heavy Wood River Valley market where restaurants compete for destination diners.
+- **Contact Signal:** (208) 578-1700, 14 W Croy St, Facebook: @lagoazulmexican
+- **Scouted:** 2026-03-30
+
+---
