@@ -69,3 +69,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## The Contemporary Cottage
+- **Location:** Hailey, ID
+- **Category:** Gift Shop & Boutique (Local Artists, Upcycled Furniture, Jewelry)
+- **Website:** https://thecontemporarycottage.weebly.com/ (DEAD - 404)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 8/10
+- **Why:** Creative collective and boutique featuring local artists selling handcrafted treasures — upcycled furniture, apparel, gifts, and one-of-a-kind jewelry. Described as "the cutest shop around" and a member of the Valley Chamber. Their old Weebly website returns 404 — completely dead. Only presence is Facebook page. A proper website showcasing artist profiles, product gallery with purchasing options, and their unique local/handmade angle would capture tourist traffic searching for unique Sun Valley area gifts and shopping. The handmade/artist collective angle is great branding for a site.
+- **Contact Signal:** (208) 788-3258, 618 S Main St, Facebook: @thecontemporarycottage
+- **Scouted:** 2026-03-30
+
+---
