@@ -355,3 +355,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Alpine Landscaping, Inc.
+- **Location:** Ketchum, ID
+- **Category:** Landscaping / Lawn Care
+- **Website:** http://www.alpinelandscapingsv.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established local landscaping company (Ronald & Robert Taubitz) serving the Wood River Valley since at least 2011. The website is severely outdated — copyright 2011-2013, HTTP only (no SSL), minimal content (just contact info and a tagline), no portfolio, no services list, no online quote requests, no photos of their work. Competitors like Webb Landscape and Sun Valley Services have modern, professional sites showcasing their projects. In the competitive landscaping market, especially for affluent Sun Valley homeowners who expect quality, a professional website with project photos, service descriptions, and easy contact would help Alpine compete for higher-end residential work. The bones are there (domain, basic structure) but needs a complete modern rebuild.
+- **Contact Signal:** (208) 726-3479, P.O. Box 5804 Ketchum ID 83340, Info@AlpineLandscapingsv.com
+- **Scouted:** 2026-03-30
+
+---
