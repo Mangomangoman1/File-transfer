@@ -264,3 +264,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Barber's Edge
+- **Location:** Hailey, ID
+- **Category:** Barber Shop
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Traditional barber shop on Main Street in Hailey offering haircuts, shaves, and the full barbershop experience. Listed on Yelp but the listing is "unclaimed" — no website, no social media presence found. They're competing against The Gem Barbershop (has a basic website with online booking) and 5B Barber Co. (newer shop with Vagaro booking + active Facebook). In a resort town where visitors and locals alike need grooming services, having zero online presence means losing customers to competitors who can be found and booked online. A simple website with services, pricing, hours, location, and most importantly online booking would immediately put them on equal footing with competitors and capture the walk-in tourist traffic searching "barber near me Hailey."
+- **Contact Signal:** 312 S Main St, Hailey ID 83333 (visit in person)
+- **Scouted:** 2026-03-30
+
+---
