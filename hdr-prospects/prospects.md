@@ -30,3 +30,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Hillside Auto Repair
+- **Location:** Bellevue, ID
+- **Category:** Auto Repair (Domestic & Diesel)
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established local auto shop run by Mark — GM Master certified and ASE Master certified mechanic who races at Bonneville Salt Flats. Strong word-of-mouth reputation (referred by other shops in the area). Currently has no website at all — just a Facebook page and NAPA Auto Care listing. In an area with affluent car owners and second-home residents who need trusted local mechanics, a professional website showcasing certifications, services, and customer testimonials would immediately elevate credibility and capture search traffic. The Bonneville racing angle is unique branding that could differentiate from generic shops.
+- **Contact Signal:** (208) 788-9822, 4 Gannett Rd, Facebook: @hillsideautobellevue
+- **Scouted:** 2026-03-30
+
+---
