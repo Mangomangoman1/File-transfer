@@ -459,3 +459,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Ketchum Spas, Inc.
+- **Location:** Hailey, ID (serves Sun Valley / Ketchum / Bellevue / Wood River Valley)
+- **Category:** Hot Tub / Spa Sales & Service
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Authorized dealer for Sundance Spas and Hot Spring hot tubs, serving the Wood River Valley for over 40 years. Listed on the official Hot Spring and Sundance dealer networks. Despite being an established, premium brand dealership in an affluent resort area where hot tubs are extremely popular (mountain climate, ski homes, vacation properties), they have ZERO website. Their "website" links on directories either point nowhere or to the manufacturer's dealer locator. This is a significant missed opportunity — when people search "hot tub dealer Sun Valley" or "spa service Ketchum," they find competitors like Four Seasons Spa & Pool (professional website with full info) instead of Ketchum Spas. A website showcasing their authorized dealer status, product lines, service capabilities, showroom photos, and easy contact/quote request would immediately boost their visibility in a market where hot tub installations are common in high-end homes. Strong email contact signal suggests they're active and reachable.
+- **Contact Signal:** (208) 726-8899, 401 S Main St Hailey ID 83333, ketchumspas@cox-internet.com
+- **Scouted:** 2026-03-30
+
+---
