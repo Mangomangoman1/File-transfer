@@ -966,3 +966,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Bear Lodge LLC
+- **Location:** Hailey, ID
+- **Category:** Wedding & Event Venue (Outdoor)
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Outdoor wedding/event venue in Hailey perfect for ceremonies, receptions, and gatherings. Listed on Eventective, WeddingWire, and The Knot with 4.7/5 rating and pricing $5,000-$10,000 per wedding — indicating an established business with real bookings and reviews. However, they have NO website — potential clients only find them through third-party wedding directories where the venue competes with dozens of others. Sun Valley is a destination wedding hotspot where couples spend significant money and research venues extensively online. Without their own website, Bear Lodge can't showcase their venue's unique features, photo gallery, amenities, capacity, packages, testimonials, or availability calendar. A professional website with stunning venue photos, wedding packages, virtual tours, testimonials from past couples, and an inquiry/booking form would dramatically increase bookings and allow them to build their brand rather than rely solely on wedding directories that take commissions.
+- **Contact Signal:** Listed on Eventective, WeddingWire, The Knot (Hailey, ID)
+- **Scouted:** 2026-03-31
+
+---
