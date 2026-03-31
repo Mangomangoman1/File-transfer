@@ -732,3 +732,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Blue Heron Workshop
+- **Location:** Hailey, ID (21 Comet Ln)
+- **Category:** Custom Picture Framing / Art Framing / Canvas Stretching
+- **Website:** https://blue-heron-workshop.webnode.page/ (FREE Webnode subdomain)
+- **Website Status:** UNPROFESSIONAL (free subdomain)
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established custom frame shop with 23+ years in business (Yellow Pages says "23 years in business") serving the Wood River Valley. Offers custom framing, drymounting, canvas stretching, mirrors, and more. Listed in Valley Chamber of Commerce and multiple directories. However, they're using a FREE Webnode subdomain (blue-heron-workshop.webnode.page) with just 3 sentences of content and no photos of their work. In Sun Valley/Ketchum where affluent residents have art collections, vacation homes with décor needs, and photographers needing prints framed, this is a premium service. Competitors like Bird & Company (bird-and-co.com) have professional websites with portfolio galleries. A professional website with a real domain, portfolio of completed framing projects, pricing tiers, materials/quality explanation, and easy contact would significantly boost credibility. Their current free subdomain URL is unmemorable and unprofessional for a 23-year-old established business.
+- **Contact Signal:** (208) 788-5030, 21 Comet Ln Hailey ID 83333, Harold Webb owner
+- **Scouted:** 2026-03-31
+
+---
