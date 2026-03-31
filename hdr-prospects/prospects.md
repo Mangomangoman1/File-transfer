@@ -953,3 +953,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Silver Bell Equestrian Center
+- **Location:** Hailey, ID
+- **Category:** Equestrian Boarding & Training Facility
+- **Website:** https://www.silverbellequestriancenter.com/
+- **Website Status:** BASIC
+- **Website Score:** 2/10
+- **Viability Score:** 9/10
+- **Why:** Full-service sport horse boarding facility on Broadford Road in Hailey with 630 Facebook likes and 108 check-ins — clearly established and active. Home to Mowbray Training (per Facebook) and hosts Sun Valley Sporthorses for lessons. Their current website is shockingly minimal — literally just contact info (address, email, phone, hours). No photos of the facility, no services listed, no boarding rates, no trainer info, no arena/barn photos, no list of amenities, no events calendar. For a premium equestrian facility in an affluent resort area serving horse owners who expect high-end services, this bare-bones site actively hurts their professional image. Competitors showcase their arenas, paddocks, tack rooms, and training programs. A proper website with facility gallery, boarding packages, training programs, trainer bios, show schedules, and online inquiry forms would significantly elevate their market position and capture inquiries from wealthy second-home owners looking to board horses in the Wood River Valley.
+- **Contact Signal:** (208) 340-6522, silverbellequestriancenter@gmail.com, 98 Broadford Rd Hailey, Facebook: Silver Bell Equestrian Center
+- **Scouted:** 2026-03-31
+
+---
