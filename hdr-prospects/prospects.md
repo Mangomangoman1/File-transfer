@@ -784,3 +784,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Swept Away Professional Chimney Sweeps LLC
+- **Location:** Sun Valley, ID (PO Box 425)
+- **Category:** Chimney Sweeps / Chimney Cleaning / Fireplace Maintenance
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Professional chimney sweep service based in Sun Valley serving the Wood River Valley. Has positive Yelp reviews mentioning owner "Liz" and professional service. Listed on Yelp, MapQuest, Yellow Pages, and Names and Numbers directories — but NO website. In a mountain resort area where virtually every home has a fireplace or wood stove (it's cold!), chimney cleaning is essential for safety and efficiency. Wealthy second-home owners need to schedule cleanings before ski season, and they search online to find local services. Without a website, Swept Away is invisible to Google searches and can't showcase their certifications, services, scheduling availability, or service area. A professional website with online booking, safety certifications (CSIA), service descriptions, seasonal reminders, and before/after photos would capture significant business from homeowners searching "chimney sweep Sun Valley" or "fireplace cleaning Ketchum." This is a seasonal service with high demand in a wealthy market — excellent prospect.
+- **Contact Signal:** (208) 450-9194, PO Box 425 Sun Valley ID 83353, Yelp listing
+- **Scouted:** 2026-03-31
+
+---
