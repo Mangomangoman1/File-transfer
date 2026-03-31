@@ -1018,3 +1018,16 @@
 - **Contact Signal:** Yelp listing, serves Ketchum/Hailey/Wood River Valley area
 - **Scouted:** 2026-03-31
 ---
+
+---
+## Sentinel Fire & Security
+- **Location:** Ketchum, ID
+- **Category:** Security Systems / Fire Alarm Installation
+- **Website:** https://sentinelfire.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established local security company serving Blaine County since 1976 — nearly 50 years in business! They've protected over 2,500 families and businesses with security and fire alarm systems. However, their website is extremely BASIC — just a single paragraph with no service details, no pricing info, no contact form, no photos, no testimonials, no certifications displayed. In an affluent area with expensive vacation homes and second properties (Sun Valley/Ketchum), home security is a high-value service. Homeowners searching for "home security Ketchum" or "alarm system Sun Valley" need to see professional credentials, service offerings, and easy contact options. Competitors have modern sites with online consultations, smart home integration info, and 24/7 monitoring details. A professional website showcasing their 47-year track record, local expertise, services, certifications, and client testimonials would significantly boost credibility and lead generation. Major opportunity for a business that clearly has the expertise but zero web presence to show it.
+- **Contact Signal:** 341 Lewis St, Ketchum, ID 83340; Chamber member; listed on VisitSunValley
+- **Scouted:** 2026-03-31
+---
