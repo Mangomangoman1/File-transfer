@@ -563,3 +563,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Sun Valley Alterations
+- **Location:** Hailey, ID (221 S River St)
+- **Category:** Tailor / Alterations
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Local tailor and alterations business in Hailey serving Sun Valley area. Found in multiple directories (Sewings.us, FindUsLocal, Names & Numbers) but has absolutely no website. Owner Terri Kennely on LinkedIn. In an affluent area like Sun Valley where residents and visitors need quality alterations for ski wear, wedding attire, and high-end clothing, a professional website would help showcase services, pricing, turnaround times, and before/after photos. Competitors like Premier Cleaners (premiercleanersid.com) and Sun Valley Cleaners (svcleaners.com) have professional sites. A simple one-page site with services, hours, and contact info would be a huge improvement over their current zero online presence. Good prospect for a basic starter website.
+- **Contact Signal:** 221 S River St, Hailey ID 83333
+- **Scouted:** 2026-03-31
+
+---
