@@ -1097,3 +1097,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Pawsitively Divine Grooming
+- **Location:** Hailey, ID
+- **Category:** Pet Grooming
+- **Website:** https://pawsitivelydivinegrooming.com/ (SUSPENDED)
+- **Website Status:** SUSPENDED
+- **Website Score:** 0/10
+- **Viability Score:** 8/10
+- **Why:** Active pet grooming business in Hailey with 460 Facebook likes and physical location at 1030 Business Park Drive, Suite C. Their website (pawsitivelydivinegrooming.com) is completely suspended by Hostinger — showing "Website Suspended" page. The business is clearly still operating based on recent Facebook activity but has no functional web presence. Pet grooming is a thriving service in the affluent Wood River Valley where pet ownership is high and pet owners expect quality care. A professional website showcasing services, pricing, before/after photos, online booking, and groomer credentials would significantly help this established business compete against other groomers in the area. Good viability: active business, suspended website, consumer service, repeat customers (pets need regular grooming).
+- **Contact Signal:** (208) 316-5819, 1030 Business Park Dr Suite C Hailey, Facebook: @Pawsitively-Divine-Grooming
+- **Scouted:** 2026-03-31
+
+---
