@@ -862,3 +862,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Barbara's Party Rentals
+- **Location:** Ketchum / Sun Valley, ID
+- **Category:** Event Rentals / Wedding & Party Planning
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established party and event rental company with over 30 years in the Sun Valley market. Offers wedding and party planning, tents, tables, chairs, linens, chinaware, dance floors, wine/beer sales, and full delivery/setup. Listed on Visit Sun Valley tourism portal, City of Ketchum business directory, and various event planning resources — but has ZERO website. In Sun Valley's lucrative wedding and event market (destination weddings, corporate retreats, ski resort events, family reunions), event rental companies compete heavily online. Brides and event planners searching "tent rental Sun Valley" or "wedding rentals Ketchum" find competitors like That's Entertainment, Backyard Tent & Event (both with professional websites showing inventory), while Barbara's is invisible. A website showcasing their 30+ years of experience, full inventory catalog with photos, pricing/quote request, and gallery of past events would capture significant business from couples and planners comparing options.
+- **Contact Signal:** (208) 726-3778, 220 Northwood Way Ketchum
+- **Scouted:** 2026-03-31
+
+---
