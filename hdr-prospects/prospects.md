@@ -927,3 +927,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Rocky Mountain Body Art
+- **Location:** Hailey, ID
+- **Category:** Tattoo & Piercing Shop
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 7/10
+- **Why:** Local tattoo and piercing shop in Hailey with 72 check-ins on Facebook (indicating real customer visits) but only 43 page likes and ZERO web presence outside Facebook. In the Wood River Valley, tattoo shops serve both locals and the constant flow of tourists/seasonal residents who might want spontaneous ink or piercings. Competitors like Mountain Rose Tattoo (also in Hailey) have professional websites with artist portfolios, online booking, and gallery images. Without a website, Rocky Mountain Body Art is invisible to people searching "tattoo Hailey Idaho" or "piercing Sun Valley." A professional website showcasing their artists' portfolios, tattoo styles, pricing info, aftercare, and online appointment booking would dramatically increase visibility. Tattoo customers research artists heavily before committing — portfolio galleries and reviews are essential for this business.
+- **Contact Signal:** Facebook: @rockymountainbodyart, Hailey ID
+- **Scouted:** 2026-03-31
+
+---
