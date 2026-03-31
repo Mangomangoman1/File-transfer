@@ -537,3 +537,16 @@
 - **Scouted:** 2026-03-30
 
 ---
+
+## Ketchum Spas Inc
+- **Location:** Hailey, ID (401 S Main St)
+- **Category:** Hot Tub / Spa Dealer & Service
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established hot tub and spa dealer serving the Wood River Valley for over 40 years — authorized dealer for both Sundance Spas and Hot Spring. They sell new spas, swimming pools, and provide service/repair. Listed on manufacturer dealer directories, Yelp, Nextdoor, MapQuest. Despite four decades of business, they have ZERO website. Competitors like Four Seasons Spa & Pool (fourseasonsspaandpool.com) have full websites with inventory, service info, and contact forms. In an affluent area like Sun Valley where vacation homes commonly have hot tubs requiring service/maintenance, a professional website with products, services, financing options, and service request forms would dramatically increase their visibility and lead generation. Prime candidate for web design — established business with proven longevity but no online presence.
+- **Contact Signal:** (208) 726-8899, ketchumspas@cox-internet.com, 401 S Main St, Hailey ID 83333
+- **Scouted:** 2026-03-31
+
+---
