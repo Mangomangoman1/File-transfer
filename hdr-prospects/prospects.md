@@ -823,3 +823,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Mike Beck's Firewood
+- **Location:** Hailey, ID
+- **Category:** Firewood Sales & Delivery / Logging
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Established local firewood business operating since 1988 — nearly 40 years serving the Wood River Valley! Listed on Facebook (265 likes), Yellow Pages, and multiple directories but has NO website. They offer premium firewood (pine, fir, tamarack, apple, oak, mesquite), kindling, split and delivered with stacking available. In a mountain resort area where most homes have fireplaces/wood stoves and winters are long and cold, firewood is a seasonal essential. Wealthy second-home owners arriving for ski season want to order firewood delivered before they arrive — they search Google, not Facebook. Without a website, Mike Beck's is losing business to competitors like Idaho Firewood and Bill Whitehead Firewood who have modern e-commerce sites. A professional website with wood types, pricing per cord, delivery areas, seasonal availability, and easy ordering would modernize this long-standing family business and capture significant search traffic. Money-back guarantee and 24/7 phone availability shows customer service focus that deserves a proper online presence.
+- **Contact Signal:** (208) 788-2895, Facebook: @mikebeckfirewood
+- **Scouted:** 2026-03-31
+
+---
