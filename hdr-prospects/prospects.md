@@ -758,3 +758,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## C's Mountain School of Music
+- **Location:** Hailey, ID (100 2nd Ave S)
+- **Category:** Music Education / Music School / Music Lessons
+- **Website:** https://cmountainschoolofmus.wixsite.com/music (FREE Wix subdomain)
+- **Website Status:** UNPROFESSIONAL (free subdomain)
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established music school in Hailey offering lessons in piano, guitar, bass, voice/vocals for all ages and skill levels. Has 418 Facebook followers and has been featured on radio. Offers online lessons too. Multiple teachers including instructors from Wood River YMCA. However, they're using a FREE Wix subdomain (cmountainschoolofmus.wixsite.com/music) - the URL is extremely clunky, unmemorable, and unprofessional. The website has minimal content and appears dated. For a music school serving affluent families in Sun Valley who want their kids to take lessons, a professional website would add significant credibility. Competitors in similar markets have online scheduling, teacher bios with credentials, student testimonials, recital photos, and clear pricing. A proper domain (like csmountainmusic.com) with modern design, online booking, teacher profiles, and lesson info would dramatically improve their professional image and help convert inquiring parents into students.
+- **Contact Signal:** (208) 720-xxxx (Chamber listing), 100 2nd Ave S Hailey, Facebook page
+- **Scouted:** 2026-03-31
+
+---
