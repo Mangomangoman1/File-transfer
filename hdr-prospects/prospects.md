@@ -1110,3 +1110,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Boulder Mountain Clayworks
+- **Location:** Ketchum, ID
+- **Category:** Art Studio / Pottery
+- **Website:** https://bouldermtnclay.org/
+- **Website Status:** MODERN
+- **Website Score:** 7/10
+- **Viability Score:** 7/10
+- **Why:** Boulder Mountain Clayworks has been established since 1997 and is a non-profit dedicated to ceramic arts. They offer classes for children and adults with a fully equipped studio. Their website is modern and functional, showcasing their mission, class schedules, events, and membership options. While they have a good online presence, their website is a bit text-heavy and could benefit from a more visually appealing design to better showcase the art created there. High viability: established non-profit, community-focused arts organization, affluent area, and a solid website that could be improved for better engagement and online class sign-ups.
+- **Contact Signal:** (208) 726-4484, PO Box 3725, 471 E 10th St #B6, Ketchum, ID, bouldermtclay@gmail.com, Facebook: @BoulderMtnClay
+- **Scouted:** 2026-03-31
+
+---
