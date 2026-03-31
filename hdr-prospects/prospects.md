@@ -667,3 +667,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Two Sweeps of Idaho
+- **Location:** Ketchum/Bellevue, ID (Wood River Valley)
+- **Category:** Chimney Sweep / Chimney Cleaning / Dryer Vent Cleaning / Wood Stove Services
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Family-owned and operated since 1993 — 30+ years serving the Wood River Valley. Offers chimney cleaning, dryer vent cleaning, wood stove installation, and fireplace services. Listed on Names and Numbers, MapQuest, Yellow Pages, and has a basic Facebook page (65 likes) but ZERO website. In Sun Valley/Ketchum where mountain homes almost universally have fireplaces and wood stoves, chimney sweeping is an essential seasonal service. Competitors like Fireplace Outfitters (fireplaceoutfitters.com) have professional websites. A website would establish credibility for this long-standing business, enable online scheduling, showcase safety certifications, and capture "chimney sweep Sun Valley" or "fireplace cleaning Ketchum" searches. Essential service in a cold mountain climate with no web presence.
+- **Contact Signal:** (208) 788-1461, office@twosweeps.com, PO Box 3105 Ketchum ID
+- **Scouted:** 2026-03-31
+
+---
