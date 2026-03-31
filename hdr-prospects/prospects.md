@@ -1084,3 +1084,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Two Sweeps of Idaho
+- **Location:** Ketchum, ID (serves Wood River Valley)
+- **Category:** Chimney Sweep / Fireplace Services
+- **Website:** https://www.twosweeps.com/ (DEAD)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Established family-owned chimney sweep business serving the Wood River Valley since 1993 — over 30 years of local operation. Properly licensed (Contractors License #RCT-16540, HVAC License #3307) offering chimney inspections, cleaning, repairs, woodstove installation, dryer vent cleaning, central air duct cleaning, chimney caps, and fireplace repairs. Their old website (twosweeps.com) is completely dead — DNS doesn't resolve. In a mountain valley with cold winters where nearly every home has fireplaces and wood stoves, chimney services are essential and recurring (annual cleanings). Homeowners searching for "chimney sweep Ketchum" or "fireplace repair Sun Valley" would currently find only directory listings with no professional web presence. A modern website showcasing services, pricing, certifications, before/after photos, customer testimonials, and easy online scheduling would significantly boost this established business's visibility. High viability: essential seasonal service, 30+ year reputation, licensed, affluent market, dead website.
+- **Contact Signal:** (208) 726-8099, Facebook: @TwoSweeps
+- **Scouted:** 2026-03-31
+
+---
