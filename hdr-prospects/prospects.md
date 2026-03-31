@@ -602,3 +602,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## USA Grappling Academy
+- **Location:** Bellevue, ID
+- **Category:** Martial Arts / Gym / BJJ
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Brazilian Jiu-Jitsu, MMA, boxing, and kickboxing gym in Bellevue serving the Wood River Valley. Run by instructor Lee Anderson for over 20 years. Only presence is a Facebook page (870+ likes) — no actual website. In a health-conscious community like Sun Valley with families looking for youth martial arts and adults seeking fitness/self-defense, a professional website would showcase class schedules, pricing, instructor credentials, trial class sign-ups, and student testimonials. Competitors in Boise have professional sites. Long-standing local business with strong community presence but completely missing the web. Perfect candidate for a simple schedule/contact site.
+- **Contact Signal:** Facebook: USA Grappling Academy, Bellevue ID
+- **Scouted:** 2026-03-31
+
+---
