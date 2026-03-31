@@ -1056,4 +1056,18 @@
 - **Why:** The only local locksmith serving the Wood River Valley — essential service in an area with high-end vacation homes, condos, and property managers needing lock/security services. Has positive Yelp reviews highlighting fast response times. Owner Will has built a solid local reputation. However, the website is a generic Wix template with minimal customization — default Wix favicon, boilerplate text about being "fast, friendly, and fully functional" with no real differentiators. Missing: emergency contact info prominently displayed (critical for locksmith!), list of specific services (residential, commercial, automotive, safes, smart locks), service area map, pricing info, customer testimonials, about section with credentials/years of experience, and easy mobile click-to-call. In an affluent market with vacation rentals and property management companies who need reliable security services, a professional website showcasing trust signals, availability, and expertise would significantly boost leads. High viability because locksmith services are essential and this is THE local option.
 - **Contact Signal:** (208) 726-3711; Yelp listing; 971-6 N Main St, Ketchum
 - **Scouted:** 2026-03-31
+
+---
+
+## C's Mountain School of Music
+- **Location:** Hailey, ID
+- **Category:** Music School (Piano, Guitar, Bass, Voice Lessons)
+- **Website:** https://cmountainschoolofmus.wixsite.com/music
+- **Website Status:** OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 8/10
+- **Why:** Established music school in downtown Hailey (100 2nd Ave S) with 418 Facebook likes and 35 check-ins — clear evidence of real students and community engagement. Offers piano, guitar, bass guitar, and voice coaching for kids and adults, beginners through advanced. Also offers online lessons. Current website is a bare-bones free Wix subdomain (cmountainschoolofmus.wixsite.com/music) — screams amateur with the ".wixsite.com" URL, minimal content, and basic template. A music school serving affluent Wood River Valley families should have a professional site showcasing instructor bios, lesson types, pricing/packages, testimonials from students/parents, recital photos, easy online enrollment/inquiry forms, and a proper custom domain. Parents researching music lessons for their kids expect a polished online presence — the current free Wix site undercuts their professional reputation. High viability: education services in affluent areas command premium pricing and these clients care about credibility.
+- **Contact Signal:** (208) 720-4689, 100 2nd Ave S Hailey, Facebook: @csmountainschoolofmusic
+- **Scouted:** 2026-03-31
+
 ---
