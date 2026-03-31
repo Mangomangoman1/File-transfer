@@ -914,3 +914,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Hangar Bread
+- **Location:** Hailey, ID
+- **Category:** Artisan Bakery / Sourdough Bread
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Neighborhood artisan bakery in downtown Hailey specializing in long-fermented sourdough breads, plus baguettes, bagels, rolls, cinnamon rolls, pizzas, cookies, and sandwiches. Has wholesale distribution to Atkinson's Markets (both locations), Ketchum Kitchens, NourishMe, Tara's Market & Garden, and Village Market — indicating a legitimate, established business with quality product. Featured in Sun Valley Magazine's "Taste of Sun Valley" publication. Currently has ZERO website — only a Facebook page and listings on Locally Grown Guide. In the artisan/farm-to-table conscious Wood River Valley market where locals and tourists actively seek out quality baked goods, having no web presence means lost direct sales. Competitors like Bigwood Bread have full websites with ordering info. A website showcasing their bread varieties, fermentation process, wholesale partners, retail hours (10am-2pm weekdays), and potentially online pre-orders would elevate their brand and capture customers searching "artisan bread Hailey" or "sourdough Sun Valley."
+- **Contact Signal:** hangarbread@gmail.com, 111 N 1st Ave Ste. 1K Hailey, Facebook page
+- **Scouted:** 2026-03-31
+
+---
