@@ -1031,3 +1031,16 @@
 - **Contact Signal:** 341 Lewis St, Ketchum, ID 83340; Chamber member; listed on VisitSunValley
 - **Scouted:** 2026-03-31
 ---
+
+---
+## Carroll Painting Company
+- **Location:** Ketchum, ID (serves Sun Valley, Elkhorn, Warm Springs, Hailey, Bellevue)
+- **Category:** Painting Contractor
+- **Website:** https://www.carrollpaintingcompany.com/
+- **Website Status:** BASIC
+- **Website Score:** 3/10
+- **Viability Score:** 7/10
+- **Why:** Established painting contractor with 38+ years of experience, serving the Sun Valley area exclusively for over 20 years. Offers interior, exterior, residential, commercial, power-washing, decks, and fences. Fully insured with local references. However, their website is extremely BASIC — just a bullet list of services and a few words about being "detail-oriented." No portfolio/gallery of completed work, no before/after photos, no customer testimonials, no about section introducing the team, no detailed service descriptions, no contact form. In an affluent market like Sun Valley where homeowners are making high-value decisions about painting their vacation homes and mountain properties, they need to see quality proof. A professional website showcasing their 38-year track record, project gallery with high-end homes, testimonials from satisfied clients, and easy quote requests would significantly boost credibility and lead generation. Solid established business with weak online presence.
+- **Contact Signal:** (208) 720-5854; Yellow Pages listing; Names and Numbers directory
+- **Scouted:** 2026-03-31
+---
