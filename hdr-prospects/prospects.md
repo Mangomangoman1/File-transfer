@@ -641,3 +641,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Pet Grooming by Debbie
+- **Location:** Ketchum, ID (12588 State Highway 75)
+- **Category:** Pet Grooming / Pet Supplies / Self-Service Dog Wash
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Voted "valley's best" pet groomer — strong local reputation with positive Yelp reviews (7+ reviews, photos). Offers professional dog and cat grooming, self-service doggie wash, unique pet supplies, and holistic dog food. Listed on Yelp, MapQuest, Names and Numbers, Nextdoor, and Alignable but has ZERO website. In the affluent Wood River Valley where pet owners spend heavily on their animals, this is a prime prospect. A website could showcase services, pricing, booking/scheduling, before/after photos, sell products online, and capture "pet grooming Ketchum" or "dog groomer Sun Valley" searches. Competitors like Four Paws (fourpawsdoggiedayspa.com) and Gnaw Bone (gnawbone.dog) have modern websites. Established business with loyal customers but completely invisible to people searching online.
+- **Contact Signal:** 12588 State Hwy 75, Ketchum ID 83340, Yelp/Nextdoor pages
+- **Scouted:** 2026-03-31
+
+---
