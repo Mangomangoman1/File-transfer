@@ -693,3 +693,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## One Handy Man LLC
+- **Location:** Hailey, ID
+- **Category:** Handyman / Home Repair / Property Maintenance
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Licensed general contractor (RCE-53632) based in Hailey serving the Wood River Valley. Offers handyman services to residential and commercial clients with a focus on quality workmanship. Found only on directory listings (MapQuest, BuildZoom) with NO website. In affluent Sun Valley/Ketchum, property owners and vacation homeowners constantly need reliable handyman services for maintenance, repairs, and small projects. Competitors like Sun Valley Repair (sunvalleyrepair.com), Cody's Handyman Services (handymancody.com), and Sun Valley Services of Idaho (sunvalleyservicesidaho.com) all have professional websites. A website would establish credibility, showcase services and past work, enable online contact requests, and capture "handyman Hailey" or "Sun Valley home repair" searches. Essential service with zero web presence.
+- **Contact Signal:** BuildZoom listing, Hailey ID
+- **Scouted:** 2026-03-31
+
+---
