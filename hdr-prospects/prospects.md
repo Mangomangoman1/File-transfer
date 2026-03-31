@@ -550,3 +550,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Northwood Self Storage
+- **Location:** Ketchum, ID (220 Northwood Way)
+- **Category:** Self Storage Facility
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Self-storage facility in the Northwood Industrial Park serving Ketchum and Sun Valley. Listed on Ketchum city directory, Names & Numbers, and MapQuest. Offers units from 3.5'x4.5' to 20'x30'. Their only web presence is a generic SiteLink (industry software) booking page, not a real website. Competitors like South Valley Storage (sunvalleyselfstore.com) and StoragePlus have full professional websites with pricing, availability, photos, and online booking. A custom website would showcase their proximity to downtown Ketchum (huge advantage for residents and vacation-home owners), display unit sizes/pricing, show photos, and build trust for this high-value real estate area where people store expensive gear (ski equipment, furniture for second homes). Good prospect — established local business, no online presence.
+- **Contact Signal:** (208) 726-5547, 220 Northwood Way, Ketchum ID 83340
+- **Scouted:** 2026-03-31
+
+---
