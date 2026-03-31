@@ -901,3 +901,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Sun Valley Pianos
+- **Location:** Bellevue, ID
+- **Category:** Piano Sales / Restoration / Tuning
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Specialized piano business located at 260 Sunrise Ranch Road in Bellevue, serving the Wood River Valley including Sun Valley, Ketchum, and Hailey. They rebuild and sell pianos — a niche, high-ticket service for the affluent area. Currently has NO website whatsoever — only a Yellow Pages listing with basic info. In a market where wealthy homeowners invest in quality pianos for their mountain homes and vacation properties, having no online presence is a major missed opportunity. Potential customers searching "piano sales Sun Valley" or "piano restoration Idaho" won't find them. A professional website showcasing their restoration work (before/after photos), available pianos for sale, tuning services, pricing, and credentials would capture search traffic from the affluent clientele in this area who are exactly the type to invest in quality piano services.
+- **Contact Signal:** (208) 720-2260, 260 Sunrise Ranch Rd Bellevue, Yellow Pages listing
+- **Scouted:** 2026-03-31
+
+---
