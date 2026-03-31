@@ -576,3 +576,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Pawsitively Divine Grooming
+- **Location:** Hailey, ID (1030 Business Park Drive, Suite C)
+- **Category:** Pet Grooming / Dog Grooming
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Pet grooming salon in Hailey offering self-serve and full-service grooming. Only online presence is Facebook (active page). Located behind the post office in the Business Park. In Sun Valley area, pet services are in high demand — affluent second-home owners bring their dogs, and locals are dog-crazy (ski town culture). Competitor Four Paws Doggy Day Spa has a professional website. A website would showcase before/after photos, pricing, online booking, and services offered. Self-serve dog wash is a differentiator worth highlighting. Perfect candidate — established local business with active social presence but no real website.
+- **Contact Signal:** (208) 316-5819, 1030 Business Park Drive Suite C, Hailey ID 83333
+- **Scouted:** 2026-03-31
+
+---
