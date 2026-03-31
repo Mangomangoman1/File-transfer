@@ -1005,3 +1005,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+---
+## Hot Lava Spas
+- **Location:** Ketchum, ID
+- **Category:** Pool & Hot Tub Service
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Active hot tub service business run by Jared, serving the Ketchum/Hailey area with positive Yelp reviews praising his experience and responsiveness. He maintains spas for locals and helps with complex installations. However, Hot Lava Spas has NO website — only directory listings on Yelp, MapQuest, and HomeAdvisor. In the Wood River Valley where affluent homeowners have hot tubs and vacation rentals need spa maintenance, a professional website with service descriptions, maintenance packages, contact form, and service area map would generate significant business. Competitors like Ketchum Spas and Four Seasons Spa & Pool have websites. A simple site showcasing services, response times, testimonials, and easy booking would help capture the many second-home owners searching for "hot tub service Sun Valley" or "spa repair Ketchum."
+- **Contact Signal:** Yelp listing, serves Ketchum/Hailey/Wood River Valley area
+- **Scouted:** 2026-03-31
+---
