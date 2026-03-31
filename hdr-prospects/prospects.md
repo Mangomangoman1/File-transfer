@@ -771,3 +771,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## One Handy Man LLC
+- **Location:** Hailey, ID (3151 Glenbrook Dr)
+- **Category:** Handyman Services / Home Repair / General Contractor
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Licensed General Contractor in Hailey (owner: Antonio Pina) offering handyman services to residential and commercial clients. Appears on BuildZoom, MapQuest, and other directories but has NO website. In Sun Valley/Ketchum where affluent homeowners have second homes, vacation properties, and constant maintenance needs (ski chalets, mountain homes), handyman services are in high demand. Wealthy second-home owners want to find reliable contractors quickly online before they arrive for the season. Without a website, One Handy Man LLC is invisible to Google searches and can't showcase their work, reviews, service areas, or contact info professionally. A simple website with services offered, service area, contact form, and past project photos would immediately boost credibility and capture leads from homeowners searching "handyman Hailey Idaho" or "Sun Valley home repair." This is a prime candidate for a basic service business website.
+- **Contact Signal:** 3151 Glenbrook Dr Hailey ID, BuildZoom listing, directory mentions
+- **Scouted:** 2026-03-31
+
+---
