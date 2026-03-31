@@ -654,3 +654,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Wood River Window Cleaning
+- **Location:** Bellevue/Ketchum, ID (Wood River Valley)
+- **Category:** Window Cleaning / Residential & Commercial
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Professional window cleaning service covering the Wood River Valley — residential and commercial properties. Listed on Yelp (1 review, positive), MapQuest, and Names and Numbers but has ZERO website. In Sun Valley/Ketchum where luxury homes and vacation properties need regular window cleaning (especially before/after ski season), this is a needed service. Competitors like Ketchum Window Cleaning (ketchumwindowcleaning.com) have professional websites with photo galleries and booking. A website would showcase services, provide online quoting/booking, display before/after photos, and capture "window cleaning Sun Valley" or "window washing Ketchum" searches. Service businesses like this benefit enormously from online visibility — homeowners searching for services want to see professionalism before calling.
+- **Contact Signal:** (208) 309-1762 (text), Bellevue ID, Yelp page
+- **Scouted:** 2026-03-31
+
+---
