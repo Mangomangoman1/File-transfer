@@ -849,3 +849,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Window Cleaning Sun Valley
+- **Location:** Ketchum, ID (serves Sun Valley / Ketchum area)
+- **Category:** Window Cleaning / Exterior Services
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established window cleaning service with 15 years of 5-star reviews according to their Facebook page. Has 212 Facebook likes and is listed on Yelp with positive reviews. Serves residential windows inside and out, plus screens. Currently has ZERO website — only Facebook and directory listings. In the Wood River Valley where homes often feature large picture windows to capture mountain views (and where wealthy homeowners expect professional service), a website would establish credibility, enable online booking/quotes, and capture search traffic from "window cleaning Ketchum" or "Sun Valley window washer" searches. The 15-year track record is a strong selling point that's currently invisible online. A professional site with service descriptions, pricing/quote request, before/after photos, and booking functionality would capture significant business from second-home owners managing services remotely.
+- **Contact Signal:** (208) 806-1798, Facebook: @windowcleaningsunvalley
+- **Scouted:** 2026-03-31
+
+---
