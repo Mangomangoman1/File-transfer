@@ -1071,3 +1071,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## USA Grappling Academy
+- **Location:** Bellevue, ID
+- **Category:** Martial Arts (Jiu-Jitsu, MMA, Boxing, Self Defense)
+- **Website:** http://www.usagrapplingacademy.com/ (DEAD)
+- **Website Status:** DEAD
+- **Website Score:** 0/10
+- **Viability Score:** 9/10
+- **Why:** Established martial arts academy in Bellevue with 870 Facebook likes and 727 check-ins — clear evidence of an active, engaged community. Run by master instructor Lee Anderson for over 20 years in the Wood River Valley, offering Brazilian Jiu-Jitsu, MMA, boxing, submission wrestling, and self-defense classes (including ladies cardio kickboxing). Featured in Sun Valley Magazine. Their original website (usagrapplingacademy.com) is completely dead — DNS doesn't resolve. This 20+ year established business with strong community engagement currently has ZERO web presence outside of Facebook. A professional website showcasing class schedules, pricing, instructor credentials, student testimonials, photo gallery of training, and online registration would significantly boost enrollment. Martial arts students (and parents researching for kids) heavily research online before committing — competitors with proper websites have a major advantage. High viability: established business, dead website, affluent area, education/fitness services command premium pricing.
+- **Contact Signal:** (208) 720-3519, 745 North Main St Suite F Bellevue, Facebook: @USAGrapplingAcademy
+- **Scouted:** 2026-03-31
+
+---
