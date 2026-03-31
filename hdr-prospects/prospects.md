@@ -979,3 +979,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## The Sewing Room
+- **Location:** Hailey, ID
+- **Category:** Custom Sewing, Alterations & Repurposing
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 7/10
+- **Why:** Custom sewing and alterations business in Hailey with 146 Facebook likes and a clear niche — repurposing/upcycling old items and creating unique one-of-a-kind pieces. Their Facebook tagline emphasizes uniqueness and sustainability ("Each piece should be made just once to enhance its beauty. I believe in repurposing, taking the 'old' and make..."). Currently has only a Facebook page with no website. In an affluent resort area where residents and visitors value quality craftsmanship, custom work, and increasingly sustainability, this positioning is marketable. Without a website, The Sewing Room can't showcase their portfolio of before/after repurposing projects, custom creations, pricing, services offered, or the story behind their approach to unique handmade items. A website with gallery of past work, services menu, online inquiry form, and their sustainability story would help capture clients searching for custom seamstress services in the Wood River Valley.
+- **Contact Signal:** Facebook: The Sewing Room (Hailey, ID), 146 likes
+- **Scouted:** 2026-03-31
+
+---
