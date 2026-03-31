@@ -940,3 +940,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Wood River Tater Tots
+- **Location:** Hailey, ID
+- **Category:** Daycare / Childcare
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Licensed childcare provider in Hailey at 1031 Daybreak Ln, serving young children in the Wood River Valley. Listed on Idaho Child Care Check (state licensing database), MapQuest, Yahoo Local, and Nextdoor — but has NO website. In an affluent area where working parents and seasonal residents need reliable childcare, having no web presence is a significant missed opportunity. Parents heavily research childcare options online before enrolling — they want to see photos of the facility, read about curriculum/philosophy, learn staff qualifications, and understand rates. Competitors like Teddy Bear Corner have full websites with enrollment info and program details. Without a website, Wood River Tater Tots is invisible to parents searching "daycare Hailey Idaho" or "childcare Sun Valley area." A professional website with facility photos, staff bios, programs offered, daily schedules, enrollment process, pricing, and parent testimonials would dramatically increase credibility and capture inquiries from the many families moving to or vacationing in the Wood River Valley.
+- **Contact Signal:** (208) 471-8005, 1031 Daybreak Ln Hailey
+- **Scouted:** 2026-03-31
+
+---
