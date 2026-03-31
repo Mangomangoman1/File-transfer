@@ -797,3 +797,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## C U Next Storm Landscaping & Snow Removal
+- **Location:** Hailey, ID (4317 Glenbrook Dr)
+- **Category:** Landscaping / Snow Removal / Outdoor Maintenance
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Local landscaping and snow removal company serving the Wood River Valley with a memorable, clever name ("C U Next Storm"). Listed on Yelp, MapQuest, and Birdeye with positive reviews, but NO website. In a ski resort area where snow can dump several feet at a time, snow removal is an essential seasonal service — homeowners (especially second-home owners arriving for ski season) need to quickly find and book reliable snow removal before they arrive. Without a website, this business is invisible to Google searches and can't showcase their services, service area, equipment, pricing tiers (per-storm vs seasonal contracts), or provide easy contact/booking options. A professional website with seasonal pricing, service areas, before/after photos of cleared driveways, and an easy contact form would capture significant business from homeowners searching "snow removal Hailey" or "Ketchum snow plowing." The memorable name already has built-in branding potential — perfect domain would make it stick.
+- **Contact Signal:** (208) 309-8474, 4317 Glenbrook Dr Hailey ID 83333, Yelp listing
+- **Scouted:** 2026-03-31
+
+---
