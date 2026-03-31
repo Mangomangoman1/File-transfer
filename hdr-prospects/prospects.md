@@ -875,3 +875,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Marco Romero Computer Services
+- **Location:** Ketchum, ID
+- **Category:** IT Services / Computer Repair
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established computer repair and IT services business with a physical location at 131 4th St W in Ketchum. Has 8 Yelp reviews with excellent ratings, a BBB business profile, and is listed on the City of Ketchum business directory and Nextdoor. Despite being a trusted local tech service provider, they have NO website — only directory listings. In an affluent area where residents and second-home owners rely heavily on tech support for remote work, smart home systems, and personal devices, having no website is a significant missed opportunity. When locals search "computer repair Ketchum" or "IT support Sun Valley," they find competitors first. A professional website showcasing services, certifications, contact info, hours, and customer testimonials would immediately improve visibility and credibility. Perfect candidate for a simple but professional service business website.
+- **Contact Signal:** (208) 726-1991, 131 4th St W Ketchum, BBB profile
+- **Scouted:** 2026-03-31
+
+---
