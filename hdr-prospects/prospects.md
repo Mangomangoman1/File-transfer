@@ -992,3 +992,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Shooting Star Farm
+- **Location:** Hailey, ID (north end of town)
+- **Category:** Local Vegetable Farm
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 7/10
+- **Why:** Established one-acre vegetable farm operating since 2000, run by Carol Murphy (husband Dan Freeman passed in 2015). The closest farm to Hailey/Ketchum/Sun Valley, growing lettuce, tomatoes, squash, pea shoots, kale, Swiss chard, spinach, carrots, and radishes — all grown without synthetic chemicals. Regular vendor at Wood River Farmers Markets. Listed in Locally Grown Guide and Sun Valley Institute directories but has NO website of their own. In an affluent area where farm-to-table dining is prized and locals actively seek out local produce, a simple website with seasonal availability, farm story, farmers market schedule, CSA/ordering options, and photos of the farm would help capture direct sales and restaurant wholesale inquiries. The touching history (25+ year family farm, tragedy, resilience) is compelling brand storytelling that a website could showcase.
+- **Contact Signal:** Listed on Wood River Farmers Market, Locally Grown Guide, Sun Valley Institute
+- **Scouted:** 2026-03-31
+
+---
