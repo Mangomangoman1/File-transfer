@@ -810,3 +810,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Contreras Bros Moving Services
+- **Location:** Ketchum, ID (Sun Valley area)
+- **Category:** Moving Company / Residential & Commercial Movers / Furniture Delivery
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 9/10
+- **Why:** Locally owned moving company serving Sun Valley, Ketchum, and the Wood River Valley. Listed on Yelp (with 12 photos and positive reviews), MapQuest, and Verified Movers — but NO website. Their Yelp listing shows they offer house/office/apartment/condo moves, furniture delivery & pickup, consignment delivery, packing services, and local + out of state moves. In a resort area with high real estate turnover, seasonal residents moving in/out, and wealthy homeowners buying/selling vacation properties, professional movers are in constant demand. Second-home owners need to find reliable local movers quickly when they're planning a move from out of state. Without a website, Contreras Bros is invisible to Google searches like "movers Sun Valley" or "moving company Ketchum." A professional website with services offered, pricing information, service area, booking/quote request form, and testimonials would capture significant business from people searching for local movers. Family-owned businesses with good reviews are exactly what people want to hire.
+- **Contact Signal:** Ketchum ID, Yelp listing with 12 photos, MapQuest listing
+- **Scouted:** 2026-03-31
+
+---
