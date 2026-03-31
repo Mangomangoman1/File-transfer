@@ -615,3 +615,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Big Al's Auto Upholstery
+- **Location:** Hailey, ID (4041 Woodside Blvd, #3A)
+- **Category:** Auto Upholstery / Automotive Interior
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established auto upholstery business since 1994 — over 30 years serving the Wood River Valley. Specializes in automotive interior restoration and customization (seat covers, convertible tops, headliners, door panels). Listed on Yellow Pages, MapQuest, Manta, and other directories but has ZERO website. In an area with classic car collectors, luxury vehicles, and outdoor enthusiasts (ski gear damages interiors), auto upholstery is in steady demand. Competitors in Boise/Twin Falls have professional websites showcasing before/after photos. A website would establish credibility, show portfolio of work, list services/pricing, and capture the "auto upholstery Sun Valley" searches that currently go unanswered. Unclaimed on most directories. Solid local business with decades of reputation but completely invisible online.
+- **Contact Signal:** (208) 788-3081, 4041 Woodside Blvd #3A, Hailey ID 83333
+- **Scouted:** 2026-03-31
+
+---
