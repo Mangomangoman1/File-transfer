@@ -628,3 +628,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Wood River Tree Service
+- **Location:** Hailey, ID
+- **Category:** Tree Service / Arborist / Landscaping
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Local tree service specializing in ornamental trimming, pruning, and tree removal. Listed on Yelp, Yahoo Local, and MapQuest but has ZERO website. In the Wood River Valley with mountain homes surrounded by trees (fire mitigation, view corridors, storm damage), tree services are essential. Competitors like Carter Tree Service (cartertreeservice.com), ArborCare Resources (sunvalleytree.com), and Alpine Tree Service (alpinetreeservice.net) all have professional websites showcasing services, certifications, and before/after photos. A website would establish credibility, display ISA certifications if applicable, show portfolio of work, and capture "tree service Hailey" or "tree removal Sun Valley" searches. Solid local service business with no online presence competing against established companies with good websites.
+- **Contact Signal:** (208) 720-2492, Hailey ID 83333
+- **Scouted:** 2026-03-31
+
+---
