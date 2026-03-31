@@ -1044,3 +1044,16 @@
 - **Contact Signal:** (208) 720-5854; Yellow Pages listing; Names and Numbers directory
 - **Scouted:** 2026-03-31
 ---
+
+---
+## Wood River Lock & Safe
+- **Location:** Ketchum, ID (serves Wood River Valley)
+- **Category:** Locksmith / Security Services
+- **Website:** https://www.woodriverlock.com/
+- **Website Status:** BASIC
+- **Website Score:** 4/10
+- **Viability Score:** 8/10
+- **Why:** The only local locksmith serving the Wood River Valley — essential service in an area with high-end vacation homes, condos, and property managers needing lock/security services. Has positive Yelp reviews highlighting fast response times. Owner Will has built a solid local reputation. However, the website is a generic Wix template with minimal customization — default Wix favicon, boilerplate text about being "fast, friendly, and fully functional" with no real differentiators. Missing: emergency contact info prominently displayed (critical for locksmith!), list of specific services (residential, commercial, automotive, safes, smart locks), service area map, pricing info, customer testimonials, about section with credentials/years of experience, and easy mobile click-to-call. In an affluent market with vacation rentals and property management companies who need reliable security services, a professional website showcasing trust signals, availability, and expertise would significantly boost leads. High viability because locksmith services are essential and this is THE local option.
+- **Contact Signal:** (208) 726-3711; Yelp listing; 971-6 N Main St, Ketchum
+- **Scouted:** 2026-03-31
+---
