@@ -719,3 +719,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Sun Valley Alterations
+- **Location:** Hailey/Bellevue, ID (221 S River St, Hailey)
+- **Category:** Tailor / Alterations / Seamstress / Clothing Repair
+- **Website:** NONE
+- **Website Status:** NO WEBSITE
+- **Website Score:** N/A
+- **Viability Score:** 8/10
+- **Why:** Established alterations business run by Terri Kennely, serving the Wood River Valley. Has a physical location in Hailey at 221 S River St with 5/5 reviews. Listed on multiple directories (Names and Numbers, FindUsLocal, Sewings.us) but has ZERO website. In Sun Valley/Ketchum where residents have high-end wardrobes, ski gear needing repairs, wedding parties, and vacation homes, alterations services are in steady demand. Competitors in larger markets have professional websites showcasing services and turnaround times. A simple website with services offered (hemming, repairs, bridal alterations, ski gear), pricing, hours, location, and contact info would establish professionalism and capture "alterations Hailey" or "tailor Sun Valley" searches. Service-based business with solid reputation but completely invisible online.
+- **Contact Signal:** 221 S River St, Hailey ID 83333, directory listings
+- **Scouted:** 2026-03-31
+
+---
