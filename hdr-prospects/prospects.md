@@ -888,3 +888,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Pilates Sun Valley
+- **Location:** Ketchum, ID
+- **Category:** Fitness / Pilates Studio
+- **Website:** https://pilatessunvalley.com/ (PLACEHOLDER)
+- **Website Status:** PLACEHOLDER / COMING SOON
+- **Website Score:** 1/10
+- **Viability Score:** 9/10
+- **Why:** Pilates studio listed on the official City of Ketchum business directory at 631 E Sun Valley Rd, Suite 201. Has the domain pilatessunvalley.com registered but it's just a Squarespace "Coming Soon" placeholder page with zero actual content — they started building a website but never finished. Also listed on Yelp as "Studio Pilates Sun Valley" with services including group fitness, virtual fitness classes, and personal training. In the fitness-obsessed, affluent Sun Valley market where residents prioritize wellness and exercise, competitors like Fit Me SV, Zenergy, idaYOGA, and PeakFit all have polished professional websites with class schedules, instructor bios, and online booking. Without a real website, Pilates Sun Valley is completely invisible to potential clients searching "pilates Ketchum" or "pilates Sun Valley." A proper website with class schedules, pricing, instructor profiles, studio photos, and online booking would immediately capture market share in this high-demand wellness market.
+- **Contact Signal:** 631 E Sun Valley Rd Ste 201 #5 Ketchum, Yelp listing
+- **Scouted:** 2026-03-31
+
+---
