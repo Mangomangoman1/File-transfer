@@ -836,3 +836,16 @@
 - **Scouted:** 2026-03-31
 
 ---
+
+## Mountain Lifestyles Property Services
+- **Location:** Sun Valley / Ketchum / Hailey / Bellevue, ID
+- **Category:** Property Management / Vacation Rentals / Second Home Management
+- **Website:** http://www.svmlps.com/
+- **Website Status:** OUTDATED
+- **Website Score:** 2/10
+- **Viability Score:** 9/10
+- **Why:** Established property management company with 25+ years of experience serving the entire Wood River Valley — Sun Valley, Ketchum, Hailey, and Bellevue. They offer long-term rentals, seasonal rentals (1-5 months), and vacation rentals with comprehensive management services. Their website is severely outdated: no HTTPS (security warning in browsers), early-2000s design aesthetic, confusing navigation structure, and no modern features like online booking, property search, or owner portal. In a market where vacation rental management is highly competitive (competing with Abode, MVP, Wall Property, Natural Retreats — all with modern sites), their dated web presence undermines their "25+ years of LOCAL experience" value proposition. Property owners evaluating management companies and tenants searching for rentals will bypass them for competitors with professional online presence. A modern site with property listings, owner services portal, testimonials, and mobile responsiveness would dramatically improve their competitive position in this high-value market.
+- **Contact Signal:** Website contact form, Visit Sun Valley listing
+- **Scouted:** 2026-03-31
+
+---
